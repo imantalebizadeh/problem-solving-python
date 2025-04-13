@@ -16,13 +16,13 @@ print(2>=2)
 print(2<=2)
 # True
 
-print(2==2 and 3==3)
+print(True and True)
 # True 
 
-print(2==2 or 3==4)
+print(True or False)
 # True
 
-print(not 2==2)
+print(not True)
 # False
 
 print(2*2)
@@ -45,3 +45,17 @@ print(2%2)
 
 print(2**2)
 # 4
+
+num1 = 5
+num2 = 6.2
+
+print(num1)
+# 5
+
+print(num2)
+# 6.2
+
+name = "John"
+
+print(name)
+# John
