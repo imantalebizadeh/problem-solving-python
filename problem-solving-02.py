@@ -1,23 +1,23 @@
-print(2==2)
+print(2 == 2)
 # True
 
-print(2!=3)
+print(2 != 3)
 # True
 
-print(2>3)
+print(2 > 3)
 # False
 
-print(2<3)
+print(2 < 3)
 # True
 
-print(2>=2)
+print(2 >= 2)
 # True
 
-print(2<=2)
+print(2 <= 2)
 # True
 
 print(True and True)
-# True 
+# True
 
 print(True or False)
 # True
@@ -25,22 +25,22 @@ print(True or False)
 print(not True)
 # False
 
-print(2*2)
+print(2 * 2)
 # 4
 
-print(2+2)
+print(2 + 2)
 # 4
 
-print(2-2)
+print(2 - 2)
 # 0
 
-print(2/2)
+print(2 / 2)
 # 1.0
 
-print(2//2)
+print(2 // 2)
 # 1
 
-print(2%2)
+print(2 % 2)
 # 0
 
 print(2**2)
